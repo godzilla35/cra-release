@@ -6,7 +6,7 @@
         <title>Version 1.0.2</title>
 		<description></description>
         <pubDate>Wed, 26 Oct 2023 03:00:00 +0000</pubDate>
-        <enclosure url="itms-apps://itunes.apple.com/app/id6462798645" sparkle:version="1.0.2" sparkle:os="iOS" />
+        <enclosure url="https://apps.apple.com/kr/app/cra/id6462798645" sparkle:version="1.0.2" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
     </item>
     <!-- A release testing maximumSystemVersion -->
