@@ -5,15 +5,9 @@
     <item>
         <title>Version 1.0.2</title>
 		<description>
-		<![CDATA[
-				<h1 style="color: red">자동 업데이트가 불가능합니다. <a href="https://github.com/devxoul/allkdic/releases/download/1.0.1/Allkdic-1.0.1.app.zip">이곳</a>에서 직접 다운로드해주세요!! ㅠㅠ</h1>
-				<h3>올ㅋ사전 1.0.1</h3>
-				* 단축키 변경이 가능해졌습니다.<br />
-				* 새 업데이트가 있을 경우에만 업데이트 UI를 띄우도록 변경했습니다.<br />
-				* ESC를 눌러 올ㅋ사전을 닫을 수 있습니다.<br />
-				* 전체선택, 복사, 붙여넣기가 가능해졌습니다.<br />
-				* OS X 10.7에서도 사용이 가능해졌습니다.<br />
-				]]>
+		"111\n
+		222\n"
+		
 		</description>
         <pubDate>Wed, 26 Oct 2023 03:00:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/kr/app/cra/id6462798645" sparkle:version="1.0.2" sparkle:os="iOS" />
