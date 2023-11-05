@@ -7,9 +7,6 @@
 	<sparkle:version>1.0.2</sparkle:version>
 	<description></description>
         <pubDate>Wed, 26 Oct 2023 03:00:00 +0000</pubDate>
-	<sparkle:tags>
-        <sparkle:criticalUpdate></sparkle:criticalUpdate>
-        </sparkle:tags>
         <enclosure url="https://apps.apple.com/kr/app/cra/id6462798645" sparkle:os="iOS" />
     </item>
     <!-- A release testing maximumSystemVersion -->
